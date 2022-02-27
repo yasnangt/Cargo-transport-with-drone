@@ -1,8 +1,8 @@
 ## Cargo-transport-with-drone 
 <p align="center" > <img src="https://media.giphy.com/media/W1fFHj6LvyTgfBNdiz/giphy.gif" width="400" height="200" > </p>
-## In this project, we create a Windows Form App for a prototype of a drone delivery system.
+# In this project, we create a Windows Form App for a prototype of a drone delivery system.
 
-# Parts of Project#
+# Parts of Project
 The project consists of 4 parts.
 
 In the first part, we are connecting to Arduino on a drone by Bluetooth module(HC-06). After that, we can control clamps manually. In the second part, we are connecting to the drone(DJI-TELLO). After that, we can send commands to the drone with UDP. In the third part, we are creating registration for delivery. We use SQL to create a registry on our server. In the fourth part, we are testing our delivery system. We choose one cargo package to deliver.
