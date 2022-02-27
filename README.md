@@ -1,6 +1,6 @@
 ## Cargo-transport-with-drone 
 <p align="center" > <img src="https://media.giphy.com/media/W1fFHj6LvyTgfBNdiz/giphy.gif" width="400" height="200" > </p>
-# In this project, we create a Windows Form App for a prototype of a drone delivery system.
+ In this project, we create a Windows Form App for a prototype of a drone delivery system.
 
 # Parts of Project
 The project consists of 4 parts.
